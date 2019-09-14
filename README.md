@@ -4,11 +4,12 @@ An Android application for BEC College students to download question papers, syl
 
 ### Skills Used:
 1. Java
-2. XML
-3. Firebase (Google signup, Realtime Database, Cloud Storage, Cloud Message)
-4. Mysql
-5. php
-6. Json
+2. Kotlin
+3. XML
+4. Firebase (Google signup, Realtime Database, Cloud Storage, Cloud Message)
+5. Mysql
+6. php
+7. Json
 
 Home Activity             |  Navigation Drawer
 :-------------------------:|:-------------------------:
